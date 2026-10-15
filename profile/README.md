@@ -13,7 +13,7 @@ Contribution Guidelines
 
 2. Keep code on topic, and have descriptive commit messages.
 
-3. Contact the owner (5pr1ngC0d35) @ kabbalahyos72@gmail.com if you need to know what would be on topic for code.
+3. Contact the owner (5pr1ngC0d35) @ discussions or issues if you need to know what would be on topic for code.
 
 Contributions that repeatedly violate these guidelines may be rejected.
 
